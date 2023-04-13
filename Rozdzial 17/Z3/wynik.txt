@@ -1,0 +1,1 @@
+This is guaranteed to have nothing to do with the compiler. All compilers do is compile the code that they are given. What you're looking for is a GUI library, which you can write code against using any compiler that you want.
